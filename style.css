@@ -50,3 +50,12 @@ main>p {
     width: 300px;
     text-align: center;
 }
+
+/*  Positioning pt.2  */
+nav {
+    position: fixed;
+    top: 5px;
+    right: 50px;
+    background-color: white;
+    opacity: 75%;
+}
